@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing things to make world easier
 - 🌱 I’m currently learning Machine Learning/AI
 - 💞️ I’m looking to collaborate on interesting things
-- 📫 How to reach me - Mail me at GGinthechat@gmail.com
+- 📫 How to reach me - Mail me at GGinthechat100@gmail.com
 
 <!---
 buildforacause/buildforacause is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
